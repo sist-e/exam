@@ -13,7 +13,7 @@
 	<% if(error!=null){ %>
 		<p><%=error%></p>
 	<% } else{ %>
-		<p>로그인을 해주세요.</p>
+		<p>로그인을 해보거라</p>
 	<% }%>
 	<form action="loginProc.jsp" method="post">  
 		<ul>
